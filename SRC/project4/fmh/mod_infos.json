@@ -1,0 +1,17 @@
+{
+  "ModName": "UnknownVersion",
+  "ModAuthors": "TripleTeamsStudio",
+  "ModVersion": "1.0.0",
+  "ModLicense": "MIT",
+  "ModDescription": "",
+  "ModID": "unknownversion",
+  "ModGroup": "net.tripleteamsstudio.unknownversion",
+  "ModLogo": "logo.png",
+  "ModCredits": null,
+  "ModWebsite": null,
+  "ModIssueTracker": null,
+  "ModUpdateJSONURL": null,
+  "ModMinecraftVersion": "1.20.1",
+  "ModAPIVersion": "1.20.1-47.4.10",
+  "ModMappingsVersion": "1.20.1"
+}

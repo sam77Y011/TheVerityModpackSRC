@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="unknownversionpt1"
+version="1.0.0"
+displayName="Unknown Version - part1"

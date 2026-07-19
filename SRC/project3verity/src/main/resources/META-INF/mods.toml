@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="unknownversionpt3"
+version="1.0.0"
+displayName="Unknown Version - Part 3 (Verity Setup)"
+
+[[dependencies.unknownversionpt3]]
+    modId="verity"
+    mandatory=false
+    versionRange="[1,)"
+    ordering="AFTER"
+    side="CLIENT"

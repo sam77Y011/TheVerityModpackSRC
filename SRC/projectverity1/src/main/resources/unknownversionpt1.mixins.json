@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "net.tripleteamsstudio.unknownversionpt1.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": ["DetectedVersionMixin", "ButtonMixin"],
+  "client": [],
+  "server": [],
+  "refmap": "unknownversionpt1.refmap.json"
+}
